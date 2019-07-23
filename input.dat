@@ -1,0 +1,40 @@
+<BeginHDF5File>
+NAME : /home/aoliveira/projects/SUDOE/ExporterDN/198105/Drainage_Network_1.hdf5
+<EndHDF5File>
+
+<BeginHDF5File>
+NAME : /home/aoliveira/projects/SUDOE/ExporterDN/198106/Drainage_Network_1.hdf5
+<EndHDF5File>
+
+<BeginHDF5File>
+NAME : /home/aoliveira/projects/SUDOE/ExporterDN/198107/Drainage_Network_1.hdf5
+<EndHDF5File>
+
+<BeginHDF5File>
+NAME : /home/aoliveira/projects/SUDOE/ExporterDN/198108/Drainage_Network_1.hdf5
+<EndHDF5File>
+
+<BeginParameter>
+HDF_GROUP               : /Results/channel flow
+PROPERTY                : channel flow
+<EndParameter>
+
+!<BeginTimeSerie>
+!NAME : Douro_Portugal_Espanha
+!DN_NODE_ID : 2533
+!<EndTimeSerie>
+!
+!<BeginTimeSerie>
+!NAME : Douro_Foz
+!DN_NODE_ID : 318
+!<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME : 1520
+DN_NODE_ID : 521
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME : 3001
+DN_NODE_ID : 9265
+<EndTimeSerie>

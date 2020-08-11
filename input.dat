@@ -1,40 +1,144 @@
 <BeginHDF5File>
-NAME : /home/aoliveira/projects/SUDOE/ExporterDN/198105/Drainage_Network_1.hdf5
+NAME : A:/Ana/Aplica/Scripts/ExporterDN/HDF_Files/20121201/Drainage_Network_1.hdf5
 <EndHDF5File>
 
 <BeginHDF5File>
-NAME : /home/aoliveira/projects/SUDOE/ExporterDN/198106/Drainage_Network_1.hdf5
+NAME : A:/Ana/Aplica/Scripts/ExporterDN/HDF_Files/20121202/Drainage_Network_1.hdf5
 <EndHDF5File>
 
 <BeginHDF5File>
-NAME : /home/aoliveira/projects/SUDOE/ExporterDN/198107/Drainage_Network_1.hdf5
+NAME : A:/Ana/Aplica/Scripts/ExporterDN/HDF_Files/20121203/Drainage_Network_1.hdf5
 <EndHDF5File>
 
 <BeginHDF5File>
-NAME : /home/aoliveira/projects/SUDOE/ExporterDN/198108/Drainage_Network_1.hdf5
+NAME : A:/Ana/Aplica/Scripts/ExporterDN/HDF_Files/20121204/Drainage_Network_1.hdf5
 <EndHDF5File>
+
+<BeginHDF5File>
+NAME : A:/Ana/Aplica/Scripts/ExporterDN/HDF_Files/20121205/Drainage_Network_1.hdf5
+<EndHDF5File>
+
+<BeginHDF5File>
+NAME : A:/Ana/Aplica/Scripts/ExporterDN/HDF_Files/20121206/Drainage_Network_1.hdf5
+<EndHDF5File>
+
+<BeginHDF5File>
+NAME : A:/Ana/Aplica/Scripts/ExporterDN/HDF_Files/20121207/Drainage_Network_1.hdf5
+<EndHDF5File>
+
+<BeginHDF5File>
+NAME : A:/Ana/Aplica/Scripts/ExporterDN/HDF_Files/20121208/Drainage_Network_1.hdf5
+<EndHDF5File>
+
+<BeginHDF5File>
+NAME : A:/Ana/Aplica/Scripts/ExporterDN/HDF_Files/20121209/Drainage_Network_1.hdf5
+<EndHDF5File>
+
+<BeginHDF5File>
+NAME : A:/Ana/Aplica/Scripts/ExporterDN/HDF_Files/20121210/Drainage_Network_1.hdf5
+<EndHDF5File>
+
+<BeginHDF5File>
+NAME : A:/Ana/Aplica/Scripts/ExporterDN/HDF_Files/20121211/Drainage_Network_1.hdf5
+<EndHDF5File>
+
+<BeginHDF5File>
+NAME : A:/Ana/Aplica/Scripts/ExporterDN/HDF_Files/20121212/Drainage_Network_1.hdf5
+<EndHDF5File>
+
+<BeginHDF5File>
+NAME : A:/Ana/Aplica/Scripts/ExporterDN/HDF_Files/20121213/Drainage_Network_1.hdf5
+<EndHDF5File>
+
+<BeginHDF5File>
+NAME : A:/Ana/Aplica/Scripts/ExporterDN/HDF_Files/20121214/Drainage_Network_1.hdf5
+<EndHDF5File>
+
+<BeginHDF5File>
+NAME : A:/Ana/Aplica/Scripts/ExporterDN/HDF_Files/20121215/Drainage_Network_1.hdf5
+<EndHDF5File>
+
+<BeginHDF5File>
+NAME : A:/Ana/Aplica/Scripts/ExporterDN/HDF_Files/20121216/Drainage_Network_1.hdf5
+<EndHDF5File>
+
+<BeginHDF5File>
+NAME : A:/Ana/Aplica/Scripts/ExporterDN/HDF_Files/20121217/Drainage_Network_1.hdf5
+<EndHDF5File>
+
+<BeginHDF5File>
+NAME : A:/Ana/Aplica/Scripts/ExporterDN/HDF_Files/20121218/Drainage_Network_1.hdf5
+<EndHDF5File>
+
+<BeginHDF5File>
+NAME : A:/Ana/Aplica/Scripts/ExporterDN/HDF_Files/20121219/Drainage_Network_1.hdf5
+<EndHDF5File>
+
+<BeginHDF5File>
+NAME : A:/Ana/Aplica/Scripts/ExporterDN/HDF_Files/20121220/Drainage_Network_1.hdf5
+<EndHDF5File>
+
+<BeginHDF5File>
+NAME : A:/Ana/Aplica/Scripts/ExporterDN/HDF_Files/20121221/Drainage_Network_1.hdf5
+<EndHDF5File>
+
+<BeginHDF5File>
+NAME : A:/Ana/Aplica/Scripts/ExporterDN/HDF_Files/20121222/Drainage_Network_1.hdf5
+<EndHDF5File>
+
+<BeginHDF5File>
+NAME : A:/Ana/Aplica/Scripts/ExporterDN/HDF_Files/20121223/Drainage_Network_1.hdf5
+<EndHDF5File>
+
+<BeginHDF5File>
+NAME : A:/Ana/Aplica/Scripts/ExporterDN/HDF_Files/20121224/Drainage_Network_1.hdf5
+<EndHDF5File>
+
+<BeginHDF5File>
+NAME : A:/Ana/Aplica/Scripts/ExporterDN/HDF_Files/20121225/Drainage_Network_1.hdf5
+<EndHDF5File>
+
+<BeginHDF5File>
+NAME : A:/Ana/Aplica/Scripts/ExporterDN/HDF_Files/20121226/Drainage_Network_1.hdf5
+<EndHDF5File>
+
+<BeginHDF5File>
+NAME : A:/Ana/Aplica/Scripts/ExporterDN/HDF_Files/20121227/Drainage_Network_1.hdf5
+<EndHDF5File>
+
+<BeginHDF5File>
+NAME : A:/Ana/Aplica/Scripts/ExporterDN/HDF_Files/20121228/Drainage_Network_1.hdf5
+<EndHDF5File>
+
+<BeginHDF5File>
+NAME : A:/Ana/Aplica/Scripts/ExporterDN/HDF_Files/20121229/Drainage_Network_1.hdf5
+<EndHDF5File>
+
+<BeginHDF5File>
+NAME : A:/Ana/Aplica/Scripts/ExporterDN/HDF_Files/20121230/Drainage_Network_1.hdf5
+<EndHDF5File>
+
+<BeginHDF5File>
+NAME : A:/Ana/Aplica/Scripts/ExporterDN/HDF_Files/20121231/Drainage_Network_1.hdf5
+<EndHDF5File>
+
 
 <BeginParameter>
 HDF_GROUP               : /Results/channel flow
 PROPERTY                : channel flow
 <EndParameter>
 
-!<BeginTimeSerie>
-!NAME : Douro_Portugal_Espanha
-!DN_NODE_ID : 2533
-!<EndTimeSerie>
-!
-!<BeginTimeSerie>
-!NAME : Douro_Foz
-!DN_NODE_ID : 318
-!<EndTimeSerie>
-
 <BeginTimeSerie>
-NAME : 1520
-DN_NODE_ID : 521
+NAME : 540_Sar
+DN_NODE_ID : 143
 <EndTimeSerie>
 
 <BeginTimeSerie>
-NAME : 3001
-DN_NODE_ID : 9265
+NAME : 544_ULLA
+DN_NODE_ID : 2197
+<EndTimeSerie>
+
+<BeginTimeSerie>
+NAME : 552_DEZA
+DN_NODE_ID : 906
 <EndTimeSerie>

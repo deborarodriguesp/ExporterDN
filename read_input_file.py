@@ -26,39 +26,39 @@ def read_line(line_to_read, type):
 
     if type == 'hdf':
         if "NAME" in line_to_read:
-            value = line_to_read.split(':')[1]
+            value = line_to_read.split(':',1)[1]
             value = value.replace('\n','')
             value = value.strip()
             value_type = 'filepath'
         else:
-            print "Error reading HDF filename."
+            print ("Error reading HDF filename.")
             sys.exit()
     
     elif type == 'timeserie':
         if "NAME" in line_to_read:
-            value = line_to_read.split(':')[1]
+            value = line_to_read.split(':',1)[1]
             value = value.replace('\n','')
             value = value.strip()
             value_type = 'timeserie_name'
         elif "DN_NODE_ID" in line_to_read:
-            value = line_to_read.split(':')[1]
+            value = line_to_read.split(':',1)[1]
             value = value.replace('\n','')
             value = value.strip()
             value_type = 'node_id'
             
     elif type == 'parameter':
         if "HDF_GROUP" in line_to_read:
-            value = line_to_read.split(':')[1]
+            value = line_to_read.split(':',1)[1]
             value = value.replace('\n','')
             value = value.strip()
             value_type = 'hdf_group'
         elif "PROPERTY" in line_to_read:
-            value = line_to_read.split(':')[1]
+            value = line_to_read.split(':',1)[1]
             value = value.replace('\n','')
             value = value.strip()
             value_type = 'property'
         else:
-            print "Error reading HDF property."
+            print ("Error reading HDF property.")
             sys.exit()
             
     else:

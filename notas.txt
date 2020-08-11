@@ -1,0 +1,24 @@
+O objectivo deste script é ler os ficheiro do tipo HDF5, localizados na pasta HDF_Files.
+
+Estes ficheiros são compostos por diversas matrizes, sendo que cada matriz corresponde a uma
+do dia.
+
+As listas de valores que aparecem nestes ficheiros correspondem a pontos que definem por onde
+passam os rios. Estes pontos correspondem a nós da rede hídrica e cada nó tem um numero inteiro
+que o identifica (ID).
+
+A propriedade definida em:
+<BeginParameter>
+HDF_GROUP               : /Results/channel flow
+PROPERTY                : channel flow
+<EndParameter>
+é lida para os nós definidos em:
+<BeginTimeSerie>
+NAME : 540_Sar
+DN_NODE_ID : 143
+<EndTimeSerie>
+e é escrito um ficheiro de texto (.ets) composto pela data e hora e o respectivo valor da 
+propriedade que se escolheu ler. O formato do ficheiro escrito foi definido para coincidir 
+com o formato MOHID TimeSeries usado pelo modelo MOHID.
+
+O ficheiro input está definido para ler o caudal no rio (channel flow).
